@@ -14,8 +14,8 @@ python3 看电影吧.py
 
 ## 运行效果
 
-![Screenshot from 2023-09-06 07-47-54](/home/liuqingyi/git/movie/README.assets/Screenshot from 2023-09-06 07-47-54.png)
+![Screenshot from 2023-09-06 07-47-54](~/movie/README.assets/Screenshot from 2023-09-06 07-47-54.png)
 
-![Screenshot from 2023-09-06 07-45-52](/home/liuqingyi/git/movie/README.assets/Screenshot from 2023-09-06 07-45-52.png)
+![Screenshot from 2023-09-06 07-45-52](~/movie/README.assets/Screenshot from 2023-09-06 07-45-52.png)
 
-![Screenshot from 2023-09-06 07-36-03](/home/liuqingyi/git/movie/README.assets/Screenshot from 2023-09-06 07-36-03.png)
+![Screenshot from 2023-09-06 07-36-03](~/movie/README.assets/Screenshot from 2023-09-06 07-36-03.png)
