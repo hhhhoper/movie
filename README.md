@@ -16,6 +16,6 @@ python3 看电影吧.py
 
 ![Screenshot from 2023-09-06 07-47-54](https://github.com/hhhhoper/movie/blob/main/README.assets/Screenshot%20from%202023-09-06%2007-47-54.png)
 
-![Screenshot from 2023-09-06 07-45-52](~/movie/README.assets/Screenshot from 2023-09-06 07-45-52.png)
+![Screenshot from 2023-09-06 07-45-52](https://github.com/hhhhoper/movie/blob/main/README.assets/Screenshot%20from%202023-09-06%2007-45-52.png)
 
 ![Screenshot from 2023-09-06 07-36-03](~/movie/README.assets/Screenshot from 2023-09-06 07-36-03.png)
